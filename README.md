@@ -17,3 +17,9 @@ Funnel analysis
 Revenue analysis
 Product performance
 KPI tracking (AOV, Conversion Rate, Profit Margin)
+
+🔹 Key Insights
+- Decline in sessions and revenue in 2015 indicates weaker acquisition performance
+- Significant drop-off between product view and cart highlights friction in the buying journey
+- Strong dependency on a single product (“Mr Fuzzy”)
+- Google Ads is the main revenue driver
