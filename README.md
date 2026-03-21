@@ -65,8 +65,19 @@ The objective is to identify key business drivers, optimize the conversion funne
 
 ## 🔹 Dashboard Preview
 
-![Funnel Analysis](funnel.png)
-![Revenue Analysis](revenue.png)
+## 🔹 Dashboard Preview
+
+<p align="center">
+  <img src="kpi_dashboard.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="funnel.png" width="600"/>
+</p>
+
+<p align="center">
+  <img src="revenue.png" width="600"/>
+</p>
 
 ---
 
