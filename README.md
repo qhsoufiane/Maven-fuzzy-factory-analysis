@@ -1,5 +1,5 @@
 
-# 🧸 Maven Fuzzy Factory Analysis
+# 🔹 Maven Fuzzy Factory Analysis
 
 End-to-end e-commerce analysis using SQL and Power BI to evaluate user behavior, conversion funnel, and revenue performance.
 
@@ -40,10 +40,10 @@ The objective is to identify key business drivers, optimize the conversion funne
 
 ## 🔹 Key Insights
 
-- 📉 Decline in sessions and revenue in 2015 indicates weaker acquisition performance  
-- ⚠️ Significant drop-off between product view (~55%) and cart (~20%) suggests friction in the buying journey  
-- 🧸 Strong dependency on a single product (“Mr Fuzzy”) highlights product concentration risk  
-- 📊 Google Ads is the primary revenue driver but requires optimization for efficiency  
+- 🔹 Decline in sessions and revenue in 2015 indicates weaker acquisition performance  
+- 🔹 Significant drop-off between product view (~55%) and cart (~20%) suggests friction in the buying journey  
+- 🔹 Strong dependency on a single product (“Mr Fuzzy”) highlights product concentration risk  
+- 🔹 Google Ads is the primary revenue driver but requires optimization for efficiency  
 
 ---
 
