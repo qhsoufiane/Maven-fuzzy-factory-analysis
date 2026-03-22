@@ -1,5 +1,5 @@
 
-# 🔹 Maven Fuzzy Factory Analysis
+# 🔹 E-commerce Performance Analysis (SQL & Power BI)
 
 End-to-end e-commerce analysis using SQL and Power BI to evaluate user behavior, conversion funnel, and revenue performance.
 
