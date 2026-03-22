@@ -63,9 +63,60 @@ The objective is to identify key business drivers, optimize the conversion funne
 
 ---
 
-## 🔹 Dashboard Preview
+## 🔹 SQL Analysis
+
+The following queries were used to analyze user behavior, conversion funnel, and performance metrics.
+
+### 1. Funnel Drop-off by Device
+
+![Funnel Analysis](query_1.png)
+
+Analyzes how users progress through the funnel and highlights drop-off between steps.
+
+---
+
+### 2. User Journey Analysis
+
+![User Journey](query_2.png)
+
+Tracks how users navigate across key pages of the website.
+
+---
+
+### 3. Marketing Performance
+
+![Marketing](query_3.png)
+
+Breakdown of traffic sources and campaign performance.
+
+---
+
+### 4. Conversion Analysis
+
+![Conversion](query_4.png)
+
+Comparison of session-to-order conversion rates across devices.
+
+---
+
+### 5. Product Performance
+
+![Products](query_5.png)
+
+Identifies top-performing products based on order volume.
+
+---
+
+### 6. Product Page Engagement
+
+![Product Pages](query_6.png)
+
+Measures user engagement across different product pages.
+
+---
 
 ## 🔹 Dashboard Preview
+
 
 <p align="center">
   <img src="kpi_dashboard.png" width="600"/>
